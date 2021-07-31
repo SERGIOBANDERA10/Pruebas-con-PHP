@@ -21,22 +21,34 @@
 <body>
 <--!DESPUES DE AGREGAR LA EXTENSIONES VAMOS A PROBARLAS.-->
 -b <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-    <a class="navbar-brand">Brand</a>
+    <a class="navbar-brand" href="index.php">logo de la empresa</a>
     <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div id="my-nav" class="collapse navbar-collapse">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="#">Item 1 <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="index.php">Home</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Item 2</a>
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Carrito(0)</a>
             </li>
         </ul>
     </div>
-</nav>
+ </nav>
+ </br>
+ </br>
+<div class="container">   
+    <br>
+   <div class="alert alert-success">
+       Pantalla de contenido...
+       <a href="#" class="badge badge-success">Ver carrito</a>
     
+     
+    </div>
+
+</div>
+
 </body>
 </html>
 

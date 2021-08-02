@@ -83,7 +83,7 @@ include'global/conexion.php';
                  <!-- AHORA AGREGAMOS CON -B IMG PARA AGREGAR EL CODIGO DE LA IMAGEN-->
                  <img
                   class="card-img-top" 
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLMtgIfmdfCzesT2Vjg2qo_vsnlTHiTuol9Q&usqp=CAU" 
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECTAoQTKXMrwX-gJhTCQAkdUMtL15DgmmEw&usqp=CAU" 
                   alt="Titulo"
                   title="Titulo del producto">
                  <div class="card-body">
